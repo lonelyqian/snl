@@ -1,0 +1,14 @@
+program se
+var integer ss2;
+record 
+integer a;
+char a;
+end ss3;
+procedure q();
+var integer ss;
+begin
+read(ss)
+end
+begin
+read(ss2)
+end.

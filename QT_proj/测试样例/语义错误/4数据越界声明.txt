@@ -1,0 +1,17 @@
+program se
+type arr = array [21..20] of integer;
+var integer ss1;
+record 
+char a;
+char b;
+end ss2;
+arr ss3;
+char ss4;
+procedure q();
+var integer ss;
+begin
+read(ss)
+end
+begin
+read(ss1)
+end.

@@ -1,0 +1,10 @@
+program se
+var integer ss2;{1}
+procedure q();
+var integer ss;{2}
+begin
+read(ss)
+end
+begin
+read(ss)
+end.

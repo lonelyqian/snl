@@ -1,0 +1,20 @@
+program se
+var integer ss1;
+record 
+char a;
+integer b;
+end ss2;
+array [1..20] of integer ss3;
+ss1 ss4;{这里,类型}
+
+procedure q();
+var integer ss;
+begin
+read(ss)
+end
+
+begin
+{ss1[1] := 1;数组，变量}
+{ss1.a := 1; 结构体，变量}
+q()
+end.

@@ -1,0 +1,5 @@
+program L1
+var integer _x1 ,132x;
+begin
+x1 := 10
+end.

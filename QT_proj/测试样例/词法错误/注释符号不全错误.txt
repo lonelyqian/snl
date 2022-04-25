@@ -1,0 +1,6 @@
+program L1
+var integer x1;
+begin
+{@ '
+x1 := 10
+end.

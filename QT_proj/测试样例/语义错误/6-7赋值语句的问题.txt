@@ -1,0 +1,20 @@
+program se
+type arr = array [1..20] of integer;
+var integer ss1;
+record 
+char a;
+integer b;
+end ss2;
+arr ss3;
+char ss4;
+procedure q();
+var integer ss;
+begin
+read(ss)
+end
+begin
+{逐渐调试}
+ss4 := 1;  
+ss2.a := ss1 ; 
+ss3[15] := ss4
+end.

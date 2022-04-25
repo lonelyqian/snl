@@ -1,0 +1,25 @@
+program se
+type arr = array [1..20] of integer;
+var integer ss1;
+record 
+char a;
+integer b;
+end ss2;
+arr ss3;
+char ss4;
+
+procedure q();
+var integer ss;
+begin
+read(ss)
+end
+procedure p(integer ss);
+begin
+read(ss)
+end
+
+begin
+q(5,1);{个数不匹配}
+p(ss4);{类型不匹配}
+p(ss4,1)
+end.

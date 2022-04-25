@@ -1,0 +1,19 @@
+program se
+type arr = array [1..20] of integer;
+var integer ss1;
+record 
+char a;
+char a;
+end ss2;
+arr ss3;
+char ss4;
+procedure q();
+var integer ss;
+begin
+read(ss)
+end
+begin
+ss2.a := ss1 - ss3[5];
+ss3[5] := ss2.a + ss1;
+ss1()
+end.
